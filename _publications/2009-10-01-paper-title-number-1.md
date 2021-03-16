@@ -5,7 +5,7 @@ permalink: /publication/2015-IC5E-Recommendations
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-5-30
 venue: 'International Conference on eBusiness, eCommerce, eManagement, eLearning and eGovernance'
-paperurl: 'http://academicpages.github.io/files/1-2015-IC5E-Recommendations.pdf'
+paperurl: 'http://fangfang-zhang.github.io/files/1-2015-IC5E-Recommendations.pdf'
 citation: '@article{luoempirical,
   title={Empirical Research on the Effect of Online Product Recommendations on Consumers’ Shopping Efficiency},
   author={Luo, Hanyang and Zhang, Fangfang and Liu, Jing and Li, Xin},
