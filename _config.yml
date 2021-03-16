@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangfang Zhang / Site Title"
+title                    : "Fangfang Zhang / Research Fellow"
 title_separator          : "-"
 name                     : &name "Fangfang Zhang"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "citations.jpeg"
+  avatar           : "Fangfang Zhang.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
