@@ -15,7 +15,7 @@ citation: '@article{luoempirical,
 eBusiness, eCommerce, eManagement, eLearning and eGovernance}
 }'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+%This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/1-2015-IC5E-Recommendations.pdf)
 
