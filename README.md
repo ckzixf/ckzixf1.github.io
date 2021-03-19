@@ -7,6 +7,11 @@ Victoria University of Wellington
 
 ===
 Reserch Interests
+• Dynamic job shop scheduling, hyper-heuristic learning / optimisation
+• Artificial intelligence, machine learning
+• Evolutionary computation, particularly genetic programming
+• Transfer learning, multitask optimisation, mutli-objective optimisation
+• Feature selection, surrogate, genetic operators
 
 ===
 Biography
