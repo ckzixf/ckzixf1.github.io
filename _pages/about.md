@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fangfang Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-#Fangfang Zhang
+Fangfang Zhang
+======
 Postdoctoral Research Fellow
 Evolutionary Computation Research Group (ECRG)
 School of Engineering and Computer Science (SECS)
