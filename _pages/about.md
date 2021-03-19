@@ -1,20 +1,20 @@
-======
-Fangfang Zhang
+
+#Fangfang Zhang
 Postdoctoral Research Fellow
 Evolutionary Computation Research Group (ECRG)
 School of Engineering and Computer Science (SECS)
 Victoria University of Wellington
 
-======
-Reserch Interests
+
+#Reserch Interests
 • Dynamic job shop scheduling, hyper-heuristic learning / optimisation
 • Artificial intelligence, machine learning
 • Evolutionary computation, particularly genetic programming
 • Transfer learning, multitask optimisation, mutli-objective optimisation
 • Feature selection, surrogate, genetic operators
 
-======
-Biography
+
+#Biography
 Fangfang Zhang (Graduate Student Member, IEEE)
 received the B.Sc. and M.Sc. degrees from Shenzhen
 University, Shenzhen, China, in 2014 and 2017,
