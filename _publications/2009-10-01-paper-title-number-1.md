@@ -1,3 +1,5 @@
+Journals
+======
 ---
 title: "Empirical Research on the Effect of Online Product Recommendations on Consumers’ Shopping Efficiency"
 collection: publications
@@ -15,10 +17,12 @@ citation: '@article{luoempirical,
 eBusiness, eCommerce, eManagement, eLearning and eGovernance}
 }'
 ---
-%This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/1-2015-IC5E-Recommendations.pdf)
 
 Recommended citation: Hanyang Luo, Fangfang Zhang, Jing Liu, Xin Li. “Empirical Research on the Effect of
 Online Product Recommendations on Consumers’ Shopping Efficiency.” International Conference on
 eBusiness, eCommerce, eManagement, eLearning and eGovernance (2015): 88-92. <i>Journal 1</i>. 1(1).
+
+Heading 1
+======
