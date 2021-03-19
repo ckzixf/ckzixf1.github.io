@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 Postdoctoral Research Fellow\\
-Evolutionary Computation Research Group [ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome)\\
-School of Engineering and Computer Science [SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science)\\
+Evolutionary Computation Research Group ([ECRG])(https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome)\\
+School of Engineering and Computer Science ([SECS])(https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science)\\
 Victoria University of Wellington
 
 
 Reserch Interests
 ======
-• Dynamic job shop scheduling, hyper-heuristic learning / optimisation
-• Artificial intelligence, machine learning
-• Evolutionary computation, particularly genetic programming
-• Transfer learning, multitask optimisation, mutli-objective optimisation
+• Dynamic job shop scheduling, hyper-heuristic learning / optimisation\\
+• Artificial intelligence, machine learning\\
+• Evolutionary computation, particularly genetic programming\\
+• Transfer learning, multitask optimisation, mutli-objective optimisation\\
 • Feature selection, surrogate, genetic operators
 
 
