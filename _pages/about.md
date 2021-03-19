@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Postdoctoral Research Fellow\\
-Evolutionary Computation Research Group ([ECRG])(https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome)\\
-School of Engineering and Computer Science ([SECS])(https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science)\\
+Evolutionary Computation Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
+School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
 Victoria University of Wellington
 
 
