@@ -24,5 +24,3 @@ Recommended citation: Hanyang Luo, Fangfang Zhang, Jing Liu, Xin Li. “Empirica
 Online Product Recommendations on Consumers’ Shopping Efficiency.” International Conference on
 eBusiness, eCommerce, eManagement, eLearning and eGovernance (2015): 88-92. <i>Journal 1</i>. 1(1).
 
-Heading 1
-======
