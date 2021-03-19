@@ -16,7 +16,7 @@ eBusiness, eCommerce, eManagement, eLearning and eGovernance}
 }'
 ---
 
-[Download paper here](http://academicpages.github.io/files/1-2015-IC5E-Recommendations.pdf)
+[Download paper here](http://fangfang-zhang.github.io/files/1-2015-IC5E-Recommendations.pdf)
 
 Recommended citation: Hanyang Luo, Fangfang Zhang, Jing Liu, Xin Li. “Empirical Research on the Effect of
 Online Product Recommendations on Consumers’ Shopping Efficiency.” International Conference on
