@@ -1,5 +1,3 @@
-Journals
-======
 ---
 title: "Empirical Research on the Effect of Online Product Recommendations on Consumers’ Shopping Efficiency"
 collection: publications
