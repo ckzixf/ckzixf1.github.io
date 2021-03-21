@@ -11,7 +11,6 @@ author_profile: true
 3. Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang, "Collaborative Multi-fidelity Based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling". IEEE Transactions on Cybernetics, Doi: 10.1109/TCYB.2021.3050141. [[http]](https://ieeexplore.ieee.org/document/9345417)[[pdf]]()
 4. Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang, "Correlation Coefficient Based Recombinative Guidance for Genetic Programming Hyper-heuristics in Dynamic Flexible Job Shop Scheduling". IEEE Transactions on Evolutionary Computation, Doi: 10.1109/TEVC.2021.3056143. [[http]](https://ieeexplore.ieee.org/document/9344816)[[pdf]]()
 5. Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang. "Evolving Scheduling Heuristics via Genetic Programming with Feature Selection in Dynamic Flexible Job Shop Scheduling". IEEE Transactions on Cybernetics, vol. 51, no. 4, pp. 1797-1811, 2021.[[http]](https://ieeexplore.ieee.org/document/9234005)[[pdf]]()
-[]
 
 **Conference Papers**
 1. Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang, "A Preliminary Approach to Evolutionary Multitasking for Dynamic Flexible Job Shop Scheduling via Genetic Programming". in Proceedings of the Genetic and Evolutionary Computation Conference, ACM, 2020, pp. 107-108. [[http]](https://dl.acm.org/doi/10.1145/3377929.3389934)[[pdf]]()
