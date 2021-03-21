@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Journal Articles**
+**Refereed Journal Articles**
 1. Fangfang Zhang, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang, "Multitask Genetic Programming Based Generative Hyper-heuristics: A Case Study in Dynamic Scheduling". <i>IEEE Transactions on Cybernetics</i>, Doi: 10.1109/TCYB.2021.3065340.
 2. Fangfang Zhang, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang, "Surrogate-Assisted Evolutionary Multitask Genetic Programming for Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Evolutionary Computation</i>, Doi: 10.1109/TEVC.2021.3065707.[[http]](https://ieeexplore.ieee.org/document/9377470)[[pdf]]()
 3. Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang, "Collaborative Multi-fidelity Based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Cybernetics</i>, Doi: 10.1109/TCYB.2021.3050141. [[http]](https://ieeexplore.ieee.org/document/9345417)[[pdf]]()
