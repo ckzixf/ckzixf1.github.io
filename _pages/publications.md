@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Journal Articles**
+1. Fangfang Zhang, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang. "Multitask Genetic Programming Based Generative Hyper-heuristics: A Case Study in Dynamic Scheduling". Submitted to IEEE Transactions on Cybernetics (Doi: 10.1109/TCYB.2021.3065340).
+2.eee
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Conference Papers**
