@@ -13,4 +13,4 @@ author_profile: true
 5. Course Coordinator for “Theory and Method of Social Survey”, September 2016-January 2017, Adult Education of Shenzhen University
 6. Course Coordinator for “Modern Marketing”, September 2015-January 2016, Adult Education of Shenzhen University
 
-**PhD Student*
+**PhD Students*
