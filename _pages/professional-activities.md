@@ -30,7 +30,6 @@ author_profile: true
 4. The Australasian Joint Conference on Artificial Intelligence (AI), 2018
 
 **Professional Membership**
-1. Committee Member and the Chair of the Student Branch at VUW of IEEE NZ Central Section, 2020 – Present
-2. Graduate Student Member of IEEE, 2018 – Present
-3. Member of IEEE Computational Intelligence Society (CIS), 2018 – Present
-4. Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present
+1. Graduate Student Member of IEEE, 2018 – Present
+2. Member of IEEE Computational Intelligence Society (CIS), 2018 – Present
+3. Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present
