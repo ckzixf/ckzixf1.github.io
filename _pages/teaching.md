@@ -13,4 +13,6 @@ author_profile: true
 5. Course Coordinator for “Theory and Method of Social Survey”, September 2016-January 2017, Adult Education of Shenzhen University
 6. Course Coordinator for “Modern Marketing”, September 2015-January 2016, Adult Education of Shenzhen University
 
-**PhD Students*
+**PhD Students**
+1. Meng Xu, “Genetic programming for Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, China Scholarship Council/Victoria
+University of Wellington Joint PhD Scholarships, 1 Nov. 2020 – Present (co-supervised with Dr Yi Mei and Prof Mengjie Zhang)
