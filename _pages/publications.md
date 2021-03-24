@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-To get the BibTex of the full papers, please download from [[here]](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/mybib.html), or ask me via fangfang.zhang@ecs.vuw.ac.nz.
+To get the BibTex of the full papers, please download from [here](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/mybib.html), or ask me via fangfang.zhang@ecs.vuw.ac.nz.
 **Refereed Journal Articles**
 1. Fangfang Zhang, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang. "Multitask Genetic Programming-Based Generative Hyper-heuristics: A Case Study in Dynamic Scheduling". <i>IEEE Transactions on Cybernetics</i>, Doi: 10.1109/TCYB.2021.3065340. [[http]](https://ieeexplore.ieee.org/document/9382963)[[pdf]](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-TCYB-MultitaskDifferentObjective.PDF)
 2. Fangfang Zhang, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang. "Surrogate-Assisted Evolutionary Multitask Genetic Programming for Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Evolutionary Computation</i>, Doi: 10.1109/TEVC.2021.3065707. [[http]](https://ieeexplore.ieee.org/document/9377470)[[pdf]](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-TEVC-SurrogateMultitask.PDF)
