@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Associate Professor (This is the same level as a associate professor but is without teaching duty)\\
+Research Associate Professor\\
 Evolutionary Computation Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
 School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
 Victoria University of Wellington
