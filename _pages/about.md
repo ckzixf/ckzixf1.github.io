@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Research Associate Professor\\
-Evolutionary Computation Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
-School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
-Victoria University of Wellington
+Computational Intelligence Laboratory ([CIL](http://www5.zzu.edu.cn/cilab/index.htm))\\
+School of Electrical Engineering ([SEE](http://www5.zzu.edu.cn/dianqi/index.htm))\\
+Zhengzhou University
 
 
 Reserch Interests
